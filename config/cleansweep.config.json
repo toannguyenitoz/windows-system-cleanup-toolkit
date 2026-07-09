@@ -1,0 +1,12 @@
+{
+  "olderThanDays": 3,
+  "largeFileMB": 100,
+  "scanDeveloperCaches": false,
+  "safeDeleteOnly": true,
+  "excludedFolders": [
+    "C:\\Windows\\System32",
+    "C:\\Windows\\WinSxS",
+    "C:\\Program Files",
+    "C:\\Program Files (x86)"
+  ]
+}
